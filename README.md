@@ -72,8 +72,8 @@ endmodule
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![image](https://github.com/MandhakiniA/SR-FLIPFLOP-USING-CASE/assets/150005194/211c84cb-c080-42ae-84c6-4ecf777946e3)
 
-**RESULTS**
+**RESULTS** : 
 Thus, SR flipflop has been implemented using verilog and their functionality has
 been validated using their functional tables
 
-**RESULTS**
+
